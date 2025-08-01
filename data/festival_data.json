@@ -1,0 +1,8 @@
+[
+    {"title": "Pongal", "start": "2025-01-14", "end": "2025-01-17", "color": "#FFC300"},
+    {"title": "Republic Day", "start": "2025-01-26", "end": "2025-01-26", "color": "#FF5733"},
+    {"title": "Holi", "start": "2025-03-14", "end": "2025-03-14", "color": "#DAF7A6"},
+    {"title": "Eid al-Fitr", "start": "2025-03-30", "end": "2025-03-30", "color": "#33FF57"},
+    {"title": "Diwali", "start": "2025-10-21", "end": "2025-10-21", "color": "#FFD700"},
+    {"title": "Christmas", "start": "2025-12-25", "end": "2025-12-25", "color": "#C70039"}
+]

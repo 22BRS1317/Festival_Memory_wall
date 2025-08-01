@@ -1,0 +1,5 @@
+{
+  "user1": {"password": "password123", "role": "User", "email": "user1@example.com", "subscriptions": {"weekly": true, "monthly": true}},
+  "user2": {"password": "password123", "role": "User", "email": "user2@example.com", "subscriptions": {"weekly": false, "monthly": true}},
+  "admin": {"password": "adminpass", "role": "Admin", "email": "admin@example.com", "subscriptions": {"weekly": false, "monthly": false}}
+}
